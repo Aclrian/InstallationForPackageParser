@@ -46,3 +46,17 @@ Dann noch in IntelliJ das Environment hinzufügen. Das ist bei mir in:
 Für die Test wird noch pytest benötigt:
 
 ~/.cache/pypoetry/virtualenvs/package-parser-_gm7iz2d-py3.9/bin/python3.9 -m pip install pytest
+
+## API-Editor
+
+npm herunterladen, entpacken und ./bin in PATH hinzufügen
+
+(./gradlew build funktioniert gerade noch nicht)
+
+cd client/
+
+npm install
+
+und npm run dev
+
+sollte aber schon funktionieren
