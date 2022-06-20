@@ -53,7 +53,7 @@ npm herunterladen, entpacken und ./bin in PATH hinzufügen
 
 (./gradlew build funktioniert gerade noch nicht)
 
-cd client/
+cd gui/
 
 npm install
 
